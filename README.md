@@ -1,2 +1,2 @@
 # git_test
-Hello Odin! Bro
+This is my repository to practice The Odin Project.
